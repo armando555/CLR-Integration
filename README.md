@@ -9,7 +9,7 @@ Remember that you need to press rigth click in the project database and publish 
 
 Also, in this case we enable the trustworthy that is the same accept whatever origin of assembly without any block generating a security issue
 
-# Sample Script to understand
+# Sample Script to understand and test in a local environment
 ```sql
 EXEC sp_configure 'clr enabled', 1;  
 RECONFIGURE;  
